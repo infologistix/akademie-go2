@@ -10,7 +10,7 @@ import (
 // initiieren einer Liste mit Customer Inhalt
 var l_customers = []Customer{
 	{Name: "AWS", Address: "München", Tel: "+49 000 12345678", Email: "info@aws.de"}, // definite Typangabe
-	{"infologistix GmbH", "Garching", "+49 111 87654321", "info@infologistix.de"},    // Reihenfolge basierende Typanagabe
+	{"infologistix AG", "Garching", "+49 111 87654321", "info@infologistix.de"},      // Reihenfolge basierende Typanagabe
 }
 
 // function getAll
