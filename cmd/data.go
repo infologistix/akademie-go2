@@ -14,3 +14,4 @@ type Customer struct {
 }
 
 // Ab Hier können einzelne Structs hinzugefpügt werden
+-- Test
